@@ -3,7 +3,7 @@
  * @brief Demonstration of the enhanced Easy Memory File System (E-MFS).
  * @details This program showcases advanced features like size calculation, command aliases,
  *          improved move/copy operations, cross-platform execution, and robust error handling.
- * @author Your Name
+ * @author Camresh James
  * @date 28-08-2025
  */
 
